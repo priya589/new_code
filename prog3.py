@@ -1,4 +1,5 @@
 def main():
+    """ this is python code"""
     print "hello"
     f=file("__file__")
     print f.read()
